@@ -34,4 +34,4 @@ curl https://your-api-url/api/whoami
 
 ## 📜 Credits
 Project requirements and concept by [freeCodeCamp](https://www.freecodecamp.org/).  
-Implementation by [Your Name](https://github.com/yourusername).
+Implementation by [aDogdev](https://github.com/aDogdev).
